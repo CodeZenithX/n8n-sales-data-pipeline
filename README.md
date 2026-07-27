@@ -1,0 +1,2 @@
+# n8n-sales-data-pipeline
+An automated e-GP / portal integration workflow built with n8n. Features secure API/HTTP authentication, automated data processing, clean JSON schema structures, and zero-leak credential management.
